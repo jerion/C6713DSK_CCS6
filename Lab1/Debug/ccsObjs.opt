@@ -1,0 +1,1 @@
+"./main.obj" "./vectors.obj" "../C6xdsk.cmd" -l"libc.a" -lcsl6713.lib -ldsk6713bsl.lib 

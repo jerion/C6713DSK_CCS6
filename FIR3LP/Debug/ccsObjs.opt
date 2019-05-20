@@ -1,0 +1,1 @@
+"./FIR3LP.obj" "./Vectors_11.obj" "./c6713dskinit.obj" "../C6xdsk.cmd" -lcsl6713.lib -ldsk6713bsl.lib -l"libc.a" 

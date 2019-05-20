@@ -1,0 +1,1 @@
+"./Vectors_11.obj" "./c6713dskinit.obj" "./loop_intr.obj" "../C6xdsk.cmd" -l"libc.a" -lcsl6713.lib -ldsk6713bsl.lib 
